@@ -1,2 +1,1 @@
 timestamp,sensor1,sensor2,sensor3
-2025-11-24 04:30:00,3260,2157,2890
