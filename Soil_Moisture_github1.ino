@@ -1,6 +1,6 @@
 *Soil_Moisture_github1.ino
   
-/***************************************************
+***************************************************
  * ESP32 Soil Moisture Monitoring with Blynk + GitHub
  ***************************************************/
 
@@ -22,7 +22,7 @@ char ssid[] = "shahir6979_2.4G";
 char pass[] = "892581181";
 
 // GitHub settings
-const char* githubToken = "YOUR_GITHUB_TOKEN"; // Replace with your token
+const char* githubToken = "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"; 
 const char* githubRepo = "eirfanshh/esp32-soil-data";
 const char* githubFilePath = "data/sensor_data.txt";
 
@@ -271,4 +271,5 @@ void loop() {
   Blynk.run();
   timer.run();
 }
+
 *
