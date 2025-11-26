@@ -1,1 +1,2 @@
 timestamp, Temp&Humidity, Rain
+2025-11-26 17:02:41,2.1,23.0,0
